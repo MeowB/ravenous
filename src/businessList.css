@@ -1,0 +1,9 @@
+.businessList {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1440px;
+  justify-content: center;
+  margin: auto;
+}
+
+/*# sourceMappingURL=businessList.css.map */
